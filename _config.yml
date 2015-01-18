@@ -20,8 +20,8 @@ paginate:         5
 #Custom vars
 version:          2.0.0
 
-#github:
- # repo:           https://github.com/poole/lanyon
+github:
+ repo:           https://github.com/cliff538
 
 
 pages_list:       
