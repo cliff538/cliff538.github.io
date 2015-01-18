@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            cliff538
 tagline:          'Never Stop Learning'
-description:      'Learning Swift and a lot of other stuff... my journey and maybe even some helpful tips that I've learned the hard way.'
+description:      'My journey learning Swift and a lot of other stuff...'
 url:              http://cliff538.github.io
 
 author:
@@ -17,11 +17,11 @@ author:
 
 paginate:         5
 
-# Custom vars
+#Custom vars
 version:          2.0.0
 
-github:
-  repo:           https://github.com/poole/lanyon
+#github:
+ # repo:           https://github.com/poole/lanyon
 
 
 pages_list:       
