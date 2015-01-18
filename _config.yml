@@ -8,12 +8,12 @@ permalink:        pretty
 # Setup
 title:            cliff538
 tagline:          'Never Stop Learning'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+description:      'Learning Swift and a lot of other stuff... my thoughts and process'
+url:              http://cliff538.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'cliff538'
+  url:            https://twitter.com/cliff538
 
 paginate:         5
 
